@@ -118,3 +118,11 @@ Bonus
 ---------
 
 There is an example [sendMail.php](https://github.com/lingtalfi/log-change-notify/blob/master/hooks/sendMail.php) script example in the hooks directory of this repo.
+
+
+
+Recommendation
+-------------------
+
+You also might be interested by the [log rotator script](https://github.com/lingtalfi/logrotator)
+
