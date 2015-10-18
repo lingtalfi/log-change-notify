@@ -117,4 +117,4 @@ Inside a hook, the following rules appy:
 Bonus
 ---------
 
-There is an example [sendMail.php](https://github.com/lingtalfi/logchangenotify/blob/master/hooks/sendMail.php) script example in the hooks directory of this repo.
+There is an example [sendMail.php](https://github.com/lingtalfi/log-change-notify/blob/master/hooks/sendMail.php) script example in the hooks directory of this repo.
